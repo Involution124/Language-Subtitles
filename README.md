@@ -2,8 +2,8 @@
 1) Install the tampermonkey (chrome extension) if you do not already have it
 2) Click the tampermonkey icon in the top left of your browser
   - Click create new script
-  - Then in the editor, paste the code from *language-subtitles.js* in this repository
-  - Click save
+3) Then in the editor, paste the code from *language-subtitles.js* in this repository
+4) Click save
 
 You're good to go :)
 
