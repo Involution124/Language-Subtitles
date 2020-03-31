@@ -9,7 +9,7 @@ You're good to go :)
 
 **INSTRUCTIONS**
 1) Navigate to the appropriate episode on bs.to
-      * i.e., spongebob scharmkopff episode 1 
+      * i.e., spongebob schammkopf episode 1 
 2) Find the URL for the english transcript on wikipedia [from here](http://en.spongepedia.org/index.php?title=Episode_Transcripts/Season_1)
 3) Paste that into the box at the bottom of the screen and click submit
 
